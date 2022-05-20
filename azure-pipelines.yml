@@ -14,7 +14,7 @@ trigger:
     user: 'sowjanya adireddy'
 
 pool:
-  vmImage: ubuntu-latest
+ sowjanya adireddi
 
 steps:
 - script: echo Hello, world!
