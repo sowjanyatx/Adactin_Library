@@ -14,7 +14,7 @@ trigger:
     user: 'sowjanya adireddy'
 
 pool:
- sowjanya 
+ Sowjanya 
 
 steps:
 - script: echo Hello, world!
