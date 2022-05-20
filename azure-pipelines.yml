@@ -5,6 +5,13 @@
 
 trigger:
 - main
+- task: UiPathRunJob@2
+  inputs:
+    orchestratorConnection: 'Con_Orc_Devops'
+    processName: 'Devops UI Integration'
+    folderName: 'sowjanya adireddi'
+    jobType: 'TestAutomation'
+    user: 'sowjanya adireddy'
 
 pool:
   vmImage: ubuntu-latest
