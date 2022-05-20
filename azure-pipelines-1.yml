@@ -14,7 +14,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+ Sowjanya adireddi
 
 steps:
 - script: echo Hello, world!
