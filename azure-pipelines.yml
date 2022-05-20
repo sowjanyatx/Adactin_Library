@@ -5,7 +5,7 @@
 
 trigger:
 - main
-- task: 'UiPathRunJob@2'
+- task: UiPathRunJob@2
   inputs:
     orchestratorConnection: 'Con_Orc_Devops'
     processName: 'Devops UI Integration'
